@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>yassine</name>
+	<name>zakaria</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -28,4 +28,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>WebContent/WEB-INF/lib/mysql-connector-java-8.0.15.jar</name>
+			<type>1</type>
+			<location>C:/Users/yassine/Desktop/mysql-connector-java-8.0.15/mysql-connector-java-8.0.15.jar</location>
+		</link>
+	</linkedResources>
 </projectDescription>
